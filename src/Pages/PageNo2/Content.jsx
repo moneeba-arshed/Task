@@ -22,10 +22,10 @@ const Content = () => {
     
 </div>
 <div className='d-flex'>
-<Card  title="Content Stratagy" content="Monotonectally actualize in customers a methodologie rather done." Image={creativestrategy} marginT={25} marginB="25px" />
-<Card isActive={true}  title="Visual Interface" content="Monotonectally actualize in customers a methodologie rather done." Image={Vinterface}/>
-<Card  title="Inovate Thinking" content="Monotonectally actualize in customers a methodologie rather done." Image={innovative}/>
-<Card  title="Visual Interface" content="Monotonectally actualize in customers a methodologie rather done." Image={visual}/>
+<Card  title="Content Stratagy" content="Monotonectally actualize in customers a methodologie rather done." Image={creativestrategy} paddingTop="25px" paddingBottom="25px"  marginB="25px" />
+<Card isActive={true}  title="Visual Interface" content="Monotonectally actualize in customers a methodologie rather done." paddingTop="25px" paddingBottom="25px"  Image={Vinterface}/>
+<Card  title="Inovate Thinking" content="Monotonectally actualize in customers a methodologie rather done." paddingTop="25px" paddingBottom="25px"  Image={innovative}/>
+<Card  title="Visual Interface" content="Monotonectally actualize in customers a methodologie rather done." paddingTop="25px" paddingBottom="25px" Image={visual}/>
 </div>
     </div>
   )
