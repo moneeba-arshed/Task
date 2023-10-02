@@ -1,0 +1,41 @@
+
+.container-fluid {
+  padding: 0;
+}
+.btn{
+  border: none;
+}
+.main{
+  background-image: url("./Images/background.jpg");
+ background-repeat: no-repeat;
+ background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+.circle-container {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  width: 50px; 
+  height: 50px;
+  border-radius: 50%; 
+  border:1px solid white;
+}
+
+.tel-icon {
+  color: white; 
+  font-size: 18px;
+}
+.detail{
+  text-wrap: wrap;
+}
+.align{
+  text-align: start;
+}
+.active{
+  /* background-color: blue; */
+} 
+
+
