@@ -6,7 +6,7 @@ const Content = () => {
   return (
     <div className="container-fluid ">
       <div className="row">
-        <div className="col-md-6 offset-md-1 text-white" style={{marginTop:"10%"}}>
+        <div className="col-md-6 offset-md-1 p-0 px-sm-5 text-white" style={{marginTop:"10%"}}>
           <div className="align-content">
             <p className="d-flex justify-content-start">For IT Startup Business</p>
             <h1 className="align">Reach the Limits with New Startup Business</h1>

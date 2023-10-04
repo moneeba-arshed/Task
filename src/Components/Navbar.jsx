@@ -30,7 +30,7 @@ const Navbar = ({ backgroundColor, buttontxt }) => {
           <Link className="nav-link fw-bold me-3 text-white" aria-current="page" to="#">Home</Link>
         </li>
         <li className="nav-item text-white">
-          <Link className="nav-link fw-bold me-3 text-white" to="#">Company</Link>
+          <Link className="nav-link fw-bold me-3 text-white" to="/Team">Company</Link>
         </li>
         <li className="nav-item dropdown">
     <Link className="nav-link dropdown-toggle fw-bold me-3 text-white" data-bs-toggle="dropdown" to="#" role="button" aria-expanded="false ">Service</Link>
@@ -39,7 +39,7 @@ const Navbar = ({ backgroundColor, buttontxt }) => {
       <li><Link className="dropdown-item" to="#">Service Two</Link></li>
       <li><Link className="dropdown-item" to="#">Service Three</Link></li>
       <li><Link className="dropdown-item" to="#">Service Four</Link></li>
-      <li><Link className="dropdown-item" to="#">Service Details</Link></li>
+      <li><Link className="dropdown-item" to="/Services">Service Details</Link></li>
     </ul>
   </li>
         <li className="nav-item me-3">

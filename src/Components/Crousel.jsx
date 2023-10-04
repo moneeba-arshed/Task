@@ -15,16 +15,16 @@ const Crousel = () => {
     <div class="carousel-item active">
       <div class="row">
       <div class="col-md-3">
-      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card2} isActive={true} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card2} isActive={true} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card2} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card2} imageHeight="18rem" imageWidth="18rem"/>
       </div>
        <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="18rem" imageWidth="18rem"/>
       </div>
     </div>
     </div>
@@ -32,16 +32,16 @@ const Crousel = () => {
     <div class="carousel-item">
       <div class="row">
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card2} isActive={true} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card2} isActive={true} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="18rem" imageWidth="18rem"/>
       </div>
     </div>
     </div>
@@ -49,15 +49,15 @@ const Crousel = () => {
       <div class="carousel-item">
       <div class="row">
       <div class="col-md-3">
-      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card2} imageHeight="12rem" imageWidth="12rem"/></div>
+      <Card title="David Alexon" content="App Developer" Image={card2} imageHeight="18rem" imageWidth="18rem"/></div>
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       
     </div>
@@ -66,16 +66,16 @@ const Crousel = () => {
         <div class="carousel-item">
       <div class="row">
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card2} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card2} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="18rem" imageWidth="18rem"/>
       </div>
     </div>
     </div>
@@ -83,32 +83,32 @@ const Crousel = () => {
             <div class="carousel-item">
       <div class="row">
       <div class="col-md-3">
-      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card2} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card2} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="Monalisha Sen" content="HR Manager" Image={card4} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="Monalisha Sen" content="HR Manager" Image={card4} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="18rem" imageWidth="18rem"/>
       </div>
     </div></div>
                              {/* Fifth Card */}
     <div class="carousel-item ">
       <div class="row ">
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card2} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card2} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="Monalisha Sen" content="HR Manager" Image={card1} imageHeight="18rem" imageWidth="18rem"/>
       </div>
       <div class="col-md-3">
-      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="12rem" imageWidth="12rem"/>
+      <Card title="David Alexon" content="App Developer" Image={card4} imageHeight="18rem" imageWidth="18rem"/>
       </div>
     </div>
     </div>

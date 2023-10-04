@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Buutton = ({backgroundColor ,textColor ,text, font}) => {
+const Buutton = ({backgroundGradient ,textColor ,text, font}) => {
     const ButtonStyle = {
-        backgroundColor: backgroundColor || 'transparent',
+      background: backgroundGradient || 'transparent',
         color: textColor || 'black',
         fontWeight: font === 'bold' ? 'bold' : 'normal',
       };
